@@ -1,2 +1,2 @@
 # clinerules-bank
-rules bank for cline
+This project is an opinionated bank of clinerules. It aims to capture a desired base behavior for cline regardless of project type.
