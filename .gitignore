@@ -1,0 +1,5 @@
+# don't include local .clinerules - just for testing
+.clinerules
+
+# don't include other testing
+test.md
