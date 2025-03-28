@@ -1,5 +1,6 @@
-# don't include local .clinerules - just for testing
+# don't include local .clinerules/.memory-bank - just for testing
 .clinerules
+.memory-bank
 
 # don't include other testing
 test.md
